@@ -11,7 +11,7 @@
     <dependencies>
         <dependency>
             <groupId>ru.yesdo</groupId>
-            <artifactId>model</artifactId>
+            <artifactId>yesdo-model</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
     </dependencies>
